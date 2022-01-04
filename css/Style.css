@@ -27,7 +27,7 @@ body {
   margin: auto;
 }
 .header {
-  padding: 25px 248px 124px;
+  /*padding: 25px 248px 124px;*/
   background-image: url("images/banner-bg.jpg");
   background-repeat: no-repeat;
   background-position: center center;
