@@ -29,10 +29,10 @@ body {
 .header {
   padding: 25px 248px 124px;
   background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg");
-  background-size: auto;
+  /*background-size: auto;*/
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: auto;
+  background-size: cover;
   background-color: #000000;
   position: relative;
   z-index: 0;
