@@ -28,7 +28,7 @@ body {
 }
 .header {
   padding: 25px 248px 124px;
-  background-image: url(img/banner-bg.jpg);
+  background-image: url("img/banner-bg.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto;
