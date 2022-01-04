@@ -28,12 +28,12 @@ body {
   margin: 0 auto;
 }
 .header {
-  /*padding: 25px 248px 124px;*/
+  padding: 25px 248px 124px;
   background-image: url("../img/banner-bg.jpg");
   background-repeat: no-repeat;
   background-position: center center;
-  /*background-size: cover;*/
-  background-size: auto;
+  background-size: cover;
+  /*background-size: auto;*/
   background-color: #000000;
   position: relative;
   z-index: 0;
